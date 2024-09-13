@@ -10,7 +10,7 @@ Antes de começar, certifique-se de ter o seguinte instalado em sua máquina:
 
 ## Instalação
 
-1. Clone o repositório para sua máquina loca:
+1. Clone o repositório para sua máquina local:
    
 
    ```bash
