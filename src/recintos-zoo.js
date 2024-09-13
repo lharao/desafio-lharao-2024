@@ -22,12 +22,12 @@ class RecintosZoo {
     analisaRecintos(animal, quantidade) {
         const animalData = this.animals[animal];
 
-        // Verificar se o animal é inválido
+        
         if (!animalData) {
             return { erro: "Animal inválido" };
         }
 
-        // Verificar se a quantidade é inválida
+    
         if (quantidade <= 0 || !Number.isInteger(quantidade)) {
             return { erro: "Quantidade inválida" };
         }
